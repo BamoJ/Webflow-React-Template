@@ -1,5 +1,6 @@
 {
-  "parser": "espree",
+  "parser": "@babel/eslint-parser",
+  "requireConfigFile": false,
   "root": true,
   "parserOptions": {
     "ecmaVersion": 2021,

@@ -86,7 +86,7 @@ In both cases, you have the HMR (Hot Module Reload) in place, it allows you to r
     (function () {
       const LOCALHOST_URL = [
         'http://localhost:3000/@vite/client',
-        'http://localhost:3000/src/main.js',
+        'http://localhost:3000/src/main.jsx',
       ]
       const PROD_URL = ['https://MY-PROJECT.netlify.app/main.js']
 
